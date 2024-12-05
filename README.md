@@ -1,0 +1,1 @@
+This repository contains implementations of research papers and ideas developed during my AI Graduation Assignment preparation for the Master’s program in Artificial Intelligence at the Open Universiteit.
